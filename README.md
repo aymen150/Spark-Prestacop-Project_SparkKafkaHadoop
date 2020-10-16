@@ -1,3 +1,4 @@
+Complément Project - Enoncé
 
 1) Tous les messages doivent être stockés afin de pouvoir créer des statistiques, et chaque drone crée 100 Go de données. PrestaCop doit donc posséder un système d’information fiable. Toutes les informations seraient alors stockées dans une base de données (type S3). On crée les statistiques grâce à un job streaming.
 
